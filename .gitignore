@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# IDE settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
